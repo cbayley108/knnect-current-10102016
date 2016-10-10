@@ -1,0 +1,6 @@
+framework module Pods_knnectTests {
+  umbrella header "Pods-knnectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

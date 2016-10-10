@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>678359852572-ria6vvf9e0dvl3eible2f6mifbdvoqjm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.678359852572-ria6vvf9e0dvl3eible2f6mifbdvoqjm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCnrpJDfJjZ-VpKDU-Cc_g1OU7bgPliM98</string>
+	<key>GCM_SENDER_ID</key>
+	<string>678359852572</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.knodemy.knnectapp</string>
+	<key>PROJECT_ID</key>
+	<string>knnect-1431b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>knnect-1431b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:678359852572:ios:3a128660dfbb957d</string>
+	<key>DATABASE_URL</key>
+	<string>https://knnect-1431b.firebaseio.com</string>
+</dict>
+</plist>

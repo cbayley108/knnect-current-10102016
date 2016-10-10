@@ -1,0 +1,6 @@
+framework module Pods_knnect {
+  umbrella header "Pods-knnect-umbrella.h"
+
+  export *
+  module * { export * }
+}
